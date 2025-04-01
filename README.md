@@ -24,7 +24,7 @@ npm run dev
 
 Ensure your system meets the following requirements before setting up the project:
 
-- PHP 8.1 or higher
+- PHP 8.2 or higher
 - Composer
 - Node.js & npm
 - Database (MySQL, PostgreSQL, or SQLite)
