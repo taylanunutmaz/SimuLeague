@@ -2,6 +2,8 @@
 
 SimuLeague is a Laravel-based Premier League match simulator that predicts the champion while allowing users to simulate and play matches.
 
+![Tournaments-Laravel](https://github.com/user-attachments/assets/2f22d0da-2bf2-4f1e-809e-bba70d510a06)
+
 ## Project Setup for Development
 
 Follow these steps to set up the project for development:
