@@ -21,7 +21,7 @@ const getMatchesOfWeek = (week: number) => {
 
     return (
         matches?.map((match) => [
-            `${match.home_team?.name} <strong>${match.home_score || ''} - ${match.away_score || ''}</strong> ${match.away_team?.name}`,
+            `${match.home_team?.name} <strong>${match.home_score ?? ''} - ${match.away_score ?? ''}</strong> ${match.away_team?.name}`,
         ]) || []
     );
 };
